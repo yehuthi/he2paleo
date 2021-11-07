@@ -1,10 +1,15 @@
 {
 	"name": "he2paleo",
-	"version": "1.0.0",
+	"version": "0.1.0",
 	"description": "Hebrew script to Paleo-Hebrew script conversion.",
-	"main": "index.js",
+	"main": "dist/index.js",
+	"types": "dist/index.d.ts",
+	"files": [
+		"dist"
+	],
 	"scripts": {
-		"test": "ts-mocha test/**.ts"
+		"test": "ts-mocha test/**.ts",
+		"prepare": "tsc"
 	},
 	"repository": {
 		"type": "git",

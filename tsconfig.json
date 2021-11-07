@@ -1,6 +1,9 @@
 {
 	"compilerOptions": {
 		"strict": true,
-		"downlevelIteration": true
-	}
+		"downlevelIteration": true,
+		"declaration": true,
+		"outDir": "dist"
+	},
+	"include": ["src/**/*.ts"]
 }
