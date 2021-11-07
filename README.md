@@ -1,6 +1,13 @@
 # he2paleo
 
+[<img src="https://img.shields.io/npm/v/he2paleo?logo=npm" align="right" />](https://www.npmjs.com/package/he2paleo)
 Convert Hebrew script to Paleo-Hebrew / Phoenician script.
+
+## Installation
+
+```shell
+npm i he2paleo
+```
 
 ## Usage
 
