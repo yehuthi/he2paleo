@@ -3,6 +3,8 @@
 
 Convert Hebrew script to Paleo-Hebrew / Phoenician script.
 
+[Demo](https://yehuthi.github.io/he2paleo/)
+
 ## Installation
 
 ```shell
